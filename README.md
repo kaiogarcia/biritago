@@ -31,7 +31,7 @@ Para rodar esta aplicação é necessário ter o Docker e o Docker Compose (v1.2
 
 1. Clone o repositório e entre no diretório
 ```bash
-  git clone git@github.com:lzaghi/react-sql-delivery-app.git
+  git clone git@github.com:kaiogarcia/biritago
   cd react-sql-delivery-app
 ```
 
