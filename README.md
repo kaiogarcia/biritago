@@ -128,9 +128,3 @@ React.js, Node.js, Express.js, MySQL, Docker, JWT, RTL, Mocha, Chai, Sinon, Arqu
 
 O deploy foi feito nas plataformas PlanetScale (banco de dados), Render (back-end) e Vercel (front-end)
 
-## Qualidade de Código
-
-Análise SonarCloud
-
-![](sonarcloud.png)
-
